@@ -1,4 +1,4 @@
-# Pruebas con Jest y Supertest para la API de Cafés
+# Pruebas con Jest y Supertest para la API de Cafetería Nanacao
 
 Este repositorio contiene pruebas automatizadas utilizando Jest y Supertest para verificar el comportamiento de la API de Cafés.
 
